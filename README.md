@@ -1,1 +1,1 @@
-# LISTA-1-UNIP-SQL
+# Lista de exercícios SQL - Unip
